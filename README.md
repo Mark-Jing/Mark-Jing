@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 🌱I'm currently learning how to work with ZYNQ platforms.
+
+### 🔭I also want to learn more about computer system and machine learning.
+
+### ⚡Go for it!
 <!--
 **Mark-Jing/Mark-Jing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
