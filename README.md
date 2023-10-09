@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-### 🌱I'm currently learning how to work with ZYNQ platforms.
+### 🌱I'm currently learning how to build a simple linux webserver.
 
-### 🔭I also want to learn more about computer system and machine learning.
 
 ### ⚡Go for it!
 <!--
